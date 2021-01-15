@@ -133,8 +133,7 @@ public class Magic_Door
   }
   
   /********************************************************************************************************************
-    * This codes below is from input routines
-    * 
+    * input routines
     *****************************************************************************************************************/
   public static int getInteger(String msg) {
     System.out.println(msg);
